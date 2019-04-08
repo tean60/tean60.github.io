@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fealab—斐勒有限元仿真设计工作室</title>
+    <description>强大的机械设计与计算机仿真团队为您提供实际工程问题的解决方案。本工作室承接设计与仿真外包项目。</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 15 Mar 2017 18:36:39 +0800</pubDate>
+    <lastBuildDate>Wed, 15 Mar 2017 18:36:39 +0800</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>我们的淘宝店铺</title>
+        <description>&lt;p&gt;本工作室的淘宝店铺已经创建。&lt;/p&gt;
+
+&lt;p&gt;欢迎有设计及仿真需求的用户通过淘宝店铺下单。&lt;/p&gt;
+
+&lt;p&gt;在下单之前，请通过淘宝客服联系我们，提供详细需求，我们的技术人员将根据您的需求提供报价。&lt;/p&gt;
+
+&lt;p&gt;我们的淘宝店铺地址：&lt;a href=&quot;//shop185955215.taobao.com/&quot;&gt;shop185955215.taobao.com&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Nov 2016 18:20:05 +0800</pubDate>
+        <link>http://localhost:4000/2016/11/taobao_shop.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/11/taobao_shop.html</guid>
+        
+        <category>店铺</category>
+        
+        
+        <category>站务</category>
+        
+      </item>
+    
+      <item>
+        <title>欢迎光临我们的网站</title>
+        <description>&lt;p&gt;欢迎光临本网站。&lt;/p&gt;
+
+&lt;p&gt;本站的目的除了展示本工作室作品及相关信息之外，也将提供关于仿真与设计相关的有用信息，敬请关注。&lt;/p&gt;
+
+&lt;p&gt;有任何建议，欢迎通过留言板留言或者给我们发邮件。我们的电邮地址：admin@fealab.net&lt;/p&gt;
+</description>
+        <pubDate>Sun, 16 Oct 2016 18:20:05 +0800</pubDate>
+        <link>http://localhost:4000/2016/10/welcome.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/10/welcome.html</guid>
+        
+        <category>站务</category>
+        
+        
+        <category>站务</category>
+        
+      </item>
+    
+  </channel>
+</rss>
